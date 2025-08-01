@@ -24,4 +24,4 @@
 - **shadcn/ui** – Reusable UI components  
 - **Lucide Icons** – Stylish icon set
 
-<img width="1921" height="6400" alt="realestproj" src="https://github.com/user-attachments/assets/56e24d71-a50e-414f-9364-c005e84c7a70" />
+![App Preview](https://github.com/user-attachments/assets/56e24d71-a50e-414f-9364-c005e84c7a70)
