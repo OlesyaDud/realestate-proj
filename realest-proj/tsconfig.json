@@ -3,11 +3,13 @@
     "target": "ESNext",
     "allowSyntheticDefaultImports": true,
     "module": "ESNext",
-    "moduleResolution": "Node",
+    "moduleResolution": "bundler", // <-- changed from Node
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
-    }
+    },
+    "esModuleInterop": true, // <-- helps with imports
+    "skipLibCheck": true // <-- avoids type issues from deps
   }
 }
